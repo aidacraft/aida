@@ -1,2 +1,2 @@
 # aida
-AIDA release
+[Go to AIDA release](https://github.com/aidacraft/aida/releases)
